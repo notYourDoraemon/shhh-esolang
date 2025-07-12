@@ -1,0 +1,15 @@
+{
+  "name": "shhh-language",
+  "version": "1.0.0",
+  "description": "SHHH - The Silent Language: An esoteric programming language using only whitespace characters",
+  "main": "shhh.js",
+  "scripts": {
+    "start": "node shhh.js",
+    "test": "node test.js",
+    "demo": "node demo.js"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
